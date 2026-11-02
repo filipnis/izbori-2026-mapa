@@ -4,4 +4,4 @@ Interaktivna 3D mapa Srbije sa izlaznošću i brojem glasalih po opštinama i u 
 
 Mapa: https://filipnis.github.io/izbori-2026-mapa/
 
-Izvori: rezultati RIK (podaci po biračkim mestima, unos 29.10.2026. u 20:35); granice opština RGZ – Registar prostornih jedinica.
+Izvori: rezultati RIK (podaci po biračkim mestima, unos 02.11.2026. u 06:50); granice opština RGZ – Registar prostornih jedinica.
